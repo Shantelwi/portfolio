@@ -51,6 +51,7 @@ function Contact() {
                                 PHONE
                             </h2>
                             <p className="leading-relaxed">562-206-4262</p>
+                            <a href="www.linkedin.com/in/shantel-williams-b5549423b">LINKED IN</a>
                         </div>
                     </div>
                 </div>
