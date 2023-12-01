@@ -43,7 +43,7 @@ function Contact() {
                             <a className="text-indigo-400 leading-relaxed">
                                 williamsshantel35@yahoo.com
                             </a>
-                            <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
+                            <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                                 PHONE
                             </h2>
                             <p className="leading-relaxed">562-206-4262</p>
