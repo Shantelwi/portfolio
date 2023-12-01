@@ -28,15 +28,13 @@ function Contact() {
         <section id="contact" className="relative">
             <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
                 <div className="lg:w-2/3 md:w-1/2 bg-gray-900 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
-                    <iframe
-                        title="certificate"
-                        className="absolute inset-0 w-full h-full object-cover object-center"
-                        frameBorder={0}
-                        marginHeight={0}
-                        marginWidth={0}
-                        style={{ filter: "opacity(0.7)" }}
-                        src="/images/certificate.PNG"
-                    />
+                    <div className="w-full h-0 pb-2/3 relative" style={{paddingTop: "75%"}}>
+                        <img
+                            src="/images/certificate.PNG"
+                            alt="certificate"
+                            className="absolute inset-0 w-full h-full object-cover object-center"
+                        />
+                    </div>
                     <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
                         <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
                             <h2 className="title-font font-semibold text-white tracking-widest text-xs">
