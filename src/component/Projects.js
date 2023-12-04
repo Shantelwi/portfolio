@@ -74,6 +74,26 @@ function Projects() {
                         </div>
                     </a>
                 </div>
+                <div className="flex flex-wrap -m-4">
+                    <a href="https://github.com/Shantelwi/wedding_invite" className="sm:w-1/2 w-100 p-4">
+                        <div className="flex relative">
+                            <img
+                                src="https://i.etsystatic.com/21861859/r/il/2421bc/3414125478/il_300x300.3414125478_8iut.jpg"
+                                className="absolute insert-0 w-full h-full object-center"
+                                alt="HP"
+                            />
+                            <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
+                                <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">
+                                    Javascript and React
+                                </h2>
+                                <h1 className="title-font text-lg font-medium text-white mb-3">
+                                    Interactive Wedding Invitation
+                                </h1>
+                                <p className="leading-relaxed">A website invitation that sends an email everytime a guest submits an rsvp and guest can check the links to your gift registries.</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
             </div>
         </section>
     );
