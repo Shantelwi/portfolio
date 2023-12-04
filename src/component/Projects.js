@@ -74,8 +74,9 @@ function Projects() {
                         </div>
                     </a>
                 </div>
-                <div className="flex flex-wrap -m-4">
-                    <a href="https://github.com/Shantelwi/wedding_invite" className="sm:w-1/2 w-100 p-4">
+                // <div className="flex flex-wrap -m-4">
+                <div className="sm:w-1/2 w-full p-4">
+                    <a href="https://github.com/Shantelwi/wedding_invite">
                         <div className="flex relative">
                             <img
                                 src="https://i.etsystatic.com/21861859/r/il/2421bc/3414125478/il_300x300.3414125478_8iut.jpg"
