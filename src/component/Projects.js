@@ -54,7 +54,7 @@ function Projects() {
                         </div>
                     </a>
                 </div>
-                <div className="flex flex-wrap -m-4 inline-block">
+                <div>
                     <a href="https://github.com/Shantelwi/HP_spells_generator" className="sm:w-1/2 w-100 p-4">
                         <div className="flex relative">
                             <img
